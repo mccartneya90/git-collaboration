@@ -3,7 +3,7 @@
 6.4 million
 
 ## capital
-Dublin
+Dublin 
  
 ## official language
 Irish
